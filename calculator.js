@@ -1,6 +1,3 @@
-const form = document.querySelector("#calc")
-console.log(form)
-
 let displayBar = document.querySelector(".display-bar")
 
 
