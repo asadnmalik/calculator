@@ -13,7 +13,7 @@ If you're looking to make a simple web app calculator or want to learn making we
 * [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 Just add this block of code inside your HTML file's \<head> tag to get started with bootstrap.
-```
+```HTML
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 ```
 
